@@ -1,2 +1,2 @@
 # justplaying
-checking and learning if i can create a repoasitory
+checking and learning if i can create a repository
